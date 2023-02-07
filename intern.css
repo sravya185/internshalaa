@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:0;
+    /* background-color: aqua; */
+}
+.card-text
+{
+    margin:10px 0 0 0;
+
+
+    padding: 16px;
+    /* border: 2px solid red;; */
+   
+}
+.item-box
+{
+    background-color: rgb(204, 207, 213);
+    padding:10px;
+    /* height:90vh; */
+    margin:10% 0% 1% 0%;
+}
+.money
+{
+    font-size: 40px;
+}
+.link
+{
+    text-decoration: none;;
+}
+content
+{
+    padding:0 20px 0 20px;
+}
+.footer-link
+{
+    text-decoration: none;
+    text-align: center;
+    margin:20%;
+    
+}
+.link:hover,.footer-link:hover
+{
+    text-decoration: none;
+}
+@media (max-width:799px) {
+
+
+    .card-text{
+        width:100%;
+    }
+}
