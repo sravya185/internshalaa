@@ -21,7 +21,7 @@ body{
 }
 .money
 {
-    font-size: 40px;
+    font-size: 25px;
 }
 .link
 {
@@ -41,11 +41,4 @@ content
 .link:hover,.footer-link:hover
 {
     text-decoration: none;
-}
-@media (max-width:799px) {
-
-
-    .card-text{
-        width:100%;
-    }
 }
